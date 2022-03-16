@@ -1,6 +1,7 @@
 ### Hello World 🌍 I'm [NguyenLong]👋
 
 <p align="center">
+  <hr>
   
 [![Linkedin Badge](https://img.shields.io/badge/-Nguy%E1%BB%85n%20Ti%E1%BA%BFn%20Long%20-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyenlong147)](https://www.linkedin.com/in/william186/)
               
