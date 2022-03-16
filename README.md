@@ -38,3 +38,7 @@ I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" sty
 <!-- <img alt="Stars" src="https://img.shields.io/github/stars/Long18/Long18?style=flat-square&labelColor=343b41"/> 
 
 <img alt="Forks" src="https://img.shields.io/github/forks/Long18/FitnessCare?style=flat-square&labelColor=343b41"/> -->
+
+<p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
