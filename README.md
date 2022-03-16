@@ -4,8 +4,7 @@
   <hr>
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-red?style=flat&logo=Pinterest&logoColor=white&link=https://www.linkedin.com/in/nguyenlong147)](https://www.linkedin.com/in/nguyenlong147)
-
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-infomational?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/nguyenlong147)](https://www.linkedin.com/in/nguyenlong147)
 [![Pinterest Badge](https://img.shields.io/badge/Pinterest-red?style=flat&logo=Pinterest&logoColor=white&link=https://www.pinterest.com/BuCiuPi)](https://www.pinterest.com/BuCiuPi)
 
 <!-- <a href="https://www.youtube.com/c/William18">
