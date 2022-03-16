@@ -2,7 +2,7 @@
 
 <p align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-L%C3%AA%20Nguy%E1%BB%85n%20Th%C3%A0nh%20Long%20(%20William%20)-blue?style=flat&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/nguyen-long-771346219/)](https://www.linkedin.com/in/nguyen-long-771346219/)
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ![](https://komarev.com/ghpvc/?username=BuCiuPi&color=red)
 ![](https://visitor-badge.glitch.me/badge?page_id=BuCiuPi)
