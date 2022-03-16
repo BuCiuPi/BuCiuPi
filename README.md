@@ -36,6 +36,8 @@ I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" sty
 
 <img alt="Forks" src="https://img.shields.io/github/forks/Long18/FitnessCare?style=flat-square&labelColor=343b41"/> -->
 
+<br>
+<br>
 <hr>
 <br>
 <p align="center">
