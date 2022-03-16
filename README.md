@@ -24,12 +24,12 @@ I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" sty
 - 👨‍💻 I’m currently working on project...
 - 📚 I’m currently learning Unity & Unreal Engine
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Long18&theme=radical&show_icons=true" alt="William's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BuCiuPi&theme=radical&show_icons=true" alt="NguyenLong github stats"/>
 <br/>
 
 
-<a href="https://github.com/Long18/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Long18&layout=compact&theme=algolia"/>
+<a href="https://github.com/BuCiuPi/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuCiuPi&layout=compact&theme=algolia"/>
 </a>
 
 <a href="https://www.buymeacoffee.com/nguyenlong" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
