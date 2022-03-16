@@ -5,7 +5,7 @@
 </p>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenlong147/)
 
-[![Linkedin Badge](https://img.shields.io/badge/%20Nguy%E1%BB%85n%20Ti%E1%BA%BFn%20Long%20-red?style=flat&logo=Pinterest&logoColor=white&link=https://www.pinterest.com/BuCiuPi)](https://www.pinterest.com/BuCiuPi)
+[![Linkedin Badge](https://img.shields.io/badge/Pinterest-red?style=flat&logo=Pinterest&logoColor=white&link=https://www.pinterest.com/BuCiuPi)](https://www.pinterest.com/BuCiuPi)
 
 <!-- <a href="https://www.youtube.com/c/William18">
   <img align="left" alt="NguyenLong | YouTube" width="24px" src="/assets/youtube.svg"/>
