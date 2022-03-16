@@ -2,7 +2,7 @@
 
 <p align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-L%C3%AA%20Nguy%E1%BB%85n%20Th%C3%A0nh%20Long%20(%20William%20)-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william186/)](https://www.linkedin.com/in/william186/)
+[![Linkedin Badge](https://img.shields.io/badge/-L%C3%AA%20Nguy%E1%BB%85n%20Th%C3%A0nh%20Long%20(%20William%20)-blue?style=flat&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/nguyen-long-771346219/)](https://www.linkedin.com/in/nguyen-long-771346219/)
 
 ![](https://komarev.com/ghpvc/?username=BuCiuPi&color=red)
 ![](https://visitor-badge.glitch.me/badge?page_id=BuCiuPi)
@@ -39,6 +39,8 @@ I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" sty
 
 <img alt="Forks" src="https://img.shields.io/github/forks/Long18/FitnessCare?style=flat-square&labelColor=343b41"/> -->
 
+<hr>
+<br>
 <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
