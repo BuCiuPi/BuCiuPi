@@ -3,7 +3,7 @@
 <p align="center">
   <hr>
 </p>
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenlong147/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenlong147/)
 
 [![Linkedin Badge](https://img.shields.io/badge/%20Nguy%E1%BB%85n%20Ti%E1%BA%BFn%20Long%20-red?style=flat&logo=Pinterest&logoColor=white&link=https://www.pinterest.com/BuCiuPi)](https://www.pinterest.com/BuCiuPi)
 
