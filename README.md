@@ -2,7 +2,8 @@
 
 <p align="center">
   
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="nguyen-long-771346219" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://vn.linkedin.com/in/nguyen-long-771346219?trk=profile-badge">Nguyen Long</a></div>
+              
 
 ![](https://komarev.com/ghpvc/?username=BuCiuPi&color=red)
 ![](https://visitor-badge.glitch.me/badge?page_id=BuCiuPi)
