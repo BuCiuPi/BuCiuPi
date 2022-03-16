@@ -16,7 +16,7 @@
   
 
 
-I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
+I wanna be Game-dev from VietNam <img width="21px" style="margin-left:4px"/>
 
 - 👨‍💻 I’m currently working on project...
 - 📚 I’m currently learning Unity & Unreal Engine
