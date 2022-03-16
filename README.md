@@ -2,7 +2,7 @@
 
 <p align="center">
   
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="nguyen-long-771346219" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://vn.linkedin.com/in/nguyen-long-771346219?trk=profile-badge">Nguyen Long</a></div>
+[![Linkedin Badge](https://img.shields.io/badge/-Nguy%E1%BB%85n%20Ti%E1%BA%BFn%20Long%20-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyenlong147)](https://www.linkedin.com/in/william186/)
               
 
 ![](https://komarev.com/ghpvc/?username=BuCiuPi&color=red)
