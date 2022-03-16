@@ -1,4 +1,4 @@
-### Hello World 🌍 I'm [NguyenLong]👋
+### Hello World 🌍 I'm NguyenLong👋
 
 <p align="center">
   <hr>
@@ -28,7 +28,6 @@ I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" sty
 <a href="https://github.com/BuCiuPi/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuCiuPi&layout=compact&theme=algolia"/>
 </a>
-<br>
 <a href="https://www.buymeacoffee.com/nguyenlong" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
