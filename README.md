@@ -4,15 +4,15 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-L%C3%AA%20Nguy%E1%BB%85n%20Th%C3%A0nh%20Long%20(%20William%20)-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william186/)](https://www.linkedin.com/in/william186/)
 
-![](https://komarev.com/ghpvc/?username=Long18&color=red)
-![](https://visitor-badge.glitch.me/badge?page_id=Long18)
+![](https://komarev.com/ghpvc/?username=BuCiuPi&color=red)
+![](https://visitor-badge.glitch.me/badge?page_id=BuCiuPi)
 
 
 </p>
 
-<a href="https://www.youtube.com/c/William18">
+<!-- <a href="https://www.youtube.com/c/William18">
   <img align="left" alt="NguyenLong | YouTube" width="24px" src="/assets/youtube.svg"/>
-</a>
+</a> -->
 <!-- <a href="https://twitter.com/Willlee186">
   <img align="left" alt="NguyenLong   | Twitter" width="24px" src="/assets/twitter.svg"/>
 </a> -->
