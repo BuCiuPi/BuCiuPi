@@ -31,20 +31,3 @@ I wanna be Game-dev from VietNam <img width="21px" style="margin-left:4px"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuCiuPi&layout=compact&theme=algolia"/>
 </a>
 <a href="https://www.buymeacoffee.com/nguyenlong" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
-<!-- <img alt="Stars" src="https://img.shields.io/github/stars/Long18/Long18?style=flat-square&labelColor=343b41"/> 
-
-<img alt="Forks" src="https://img.shields.io/github/forks/Long18/FitnessCare?style=flat-square&labelColor=343b41"/> -->
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<br>
-<p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
