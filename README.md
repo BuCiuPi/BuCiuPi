@@ -18,9 +18,8 @@
   
 
 
-I wanna be Game-dev from VietNam <img width="21px" style="margin-left:4px"/>
+👨‍💻 I’m a Game Developer <img width="21px" style="margin-left:4px"/>
 
-- 👨‍💻 I’m a Game Developer...
 - 📚 I’m Developing games using the **Unity 2D&3D Engine** and **Unreal Engine 4,5**.
 - 📚 I designed game **shaders**, utilizing **ShaderGraph**, **ShaderLab**, **HLSL**, and **GLSL**.
 - 📚 I wrote **Unity Editor tools**, including data import, level design, game data management, testing, and
