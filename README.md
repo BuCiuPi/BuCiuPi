@@ -18,12 +18,14 @@
   
 
 
-👨‍💻 I’m a Game Developer <img width="21px" style="margin-left:4px"/>
+👨‍💻 I’m a Game Developer cum Technical Artis <img width="21px" style="margin-left:4px"/>
 
 - 📚 I’m Developing games using the **Unity 2D&3D Engine** and **Unreal Engine 4,5**.
 - 📚 I designed game **shaders**, utilizing **ShaderGraph**, **ShaderLab**, **HLSL**, and **GLSL**.
 - 📚 I wrote **Unity Editor tools**, including data import, level design, game data management, testing, and
 debugging.
+
+---> Check out my Porfolio <a href="https://buciupi.github.io/">Here</a> <--- <img width="25px" style="margin-left:4px"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=BuCiuPi&theme=radical&show_icons=true" alt="NguyenLong github stats"/>
 <br/>
