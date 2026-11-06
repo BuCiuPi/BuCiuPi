@@ -15,5 +15,9 @@
 debugging.
 
 
+### Contributions
+
+[![GitHub contribution streak](https://streak-stats.demolab.com?user=BuCiuPi&theme=radical&hide_border=true)](https://github.com/BuCiuPi)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=BuCiuPi&theme=radical&show_icons=true" alt="NguyenLong github stats"/>
 <hr>
