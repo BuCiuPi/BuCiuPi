@@ -46,7 +46,7 @@ An engine-independent VFX knowledge base and pipeline; each effect is described 
 | **Socket Automation & Rigging Guide** | Python, Blender to Unity | `SK_ + SM_` → `Parent, align` → `Batch export` |
 | **[Graphics Studies](https://github.com/BuCiuPi/MeshProcedural)** | Unity, GLSL | `Raymarching` · `Mesh API` · `Burst` · `DOTS` |
 
-### ◆ TOOLBOX
+### ◆ SKILLS
 <img src="assets/ramp.svg" width="100%" height="3" alt="">
 
 **Shading** HLSL, GLSL, ShaderLab, Shader Graph, Raymarching / SDF<br>
@@ -58,4 +58,4 @@ An engine-independent VFX knowledge base and pipeline; each effect is described 
 ### ◆ CONTRIBUTIONS
 <img src="assets/ramp.svg" width="100%" height="3" alt="">
 
-[![GitHub contribution streak](https://streak-stats.demolab.com?user=BuCiuPi&hide_border=true&background=14113C&stroke=2A2660&ring=F35203&fire=F6B43A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=52F3EB&sideLabels=B5F698&dates=B9B6D6)](https://github.com/BuCiuPi)
+[![GitHub contribution streak](https://streak-stats.demolab.com?user=BuCiuPi&hide_border=true&disable_animations=true&background=14113C&stroke=2A2660&ring=F35203&fire=F6B43A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=52F3EB&sideLabels=B5F698&dates=B9B6D6)](https://github.com/BuCiuPi)
